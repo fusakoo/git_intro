@@ -1,2 +1,3 @@
-README.md file of Fusako Obata for CS362's A1
+Fusako Obata
 65
+The Marias
